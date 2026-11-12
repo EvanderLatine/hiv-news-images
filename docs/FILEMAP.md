@@ -14,11 +14,11 @@
 
 ## data/image_bank/
 
-- `data/image_bank/*.jpg` — 60 тематических JPEG для превью новостей о ВИЧ.
+- `data/image_bank/*.jpg` — 76 тематических JPEG для превью новостей о ВИЧ.
 
 ## data/image_bank_branded/
 
-- `data/image_bank_branded/*.jpg` — те же 60 JPEG с логотипом H+ для публичного link preview длинных постов.
+- `data/image_bank_branded/*.jpg` — те же 76 JPEG с логотипом H+ для публичного link preview длинных постов.
 
 ## scripts/
 
